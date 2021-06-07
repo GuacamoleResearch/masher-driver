@@ -1,0 +1,4 @@
+# THe following keys can be used for prototype masher hardware
+hw_v201_a=msh-19d3-9820-ac8e
+hw_v201_b=msh-119c-800a-2ce0
+hw_v201_c=msh-188a-9200-cd11
